@@ -36,8 +36,8 @@ article header p {
   font-weight: bold;
 }
 .header-primary {
-  text-align: center;
   background-color: rgb(241, 241, 241);
+  font-weight: bold;
 
 }
 article a {
