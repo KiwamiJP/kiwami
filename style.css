@@ -1,0 +1,44 @@
+* {
+  font-family: sans-serif;
+}
+h1,
+h2,
+h3 {
+  color: #12b886;
+}
+h1 {
+  font-size: 35px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 30px;
+  text-align: center;
+  background-color: #87f1d1;
+}
+p {
+  line-height: 1.6;
+}
+.names {
+  text-transform: capitalize;
+}
+/*Descentdant Selector*/
+footer p {
+  font-size: 16px;
+  font-weight: bold;
+}
+article header p {
+  font-weight: bold;
+}
+.header-primary {
+  background-color: rgb(241, 241, 241);
+}
+article a {
+  color: #12b886;
+}
