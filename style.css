@@ -39,7 +39,7 @@ article header p {
   background-color: rgb(241, 241, 241);
   font-weight: bold;
   text-align: center;
-  font-display: block;
+  display: inline-block;
 
 }
 article a {
