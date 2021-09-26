@@ -38,6 +38,7 @@ article header p {
 .header-primary {
   background-color: rgb(241, 241, 241);
   font-weight: bold;
+  text-align: center;
 
 }
 article a {
