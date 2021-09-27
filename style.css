@@ -36,14 +36,27 @@ article header p {
   font-weight: bold;
 }
 .header-primary {
-  background-color: rgb(241, 241, 241);
+  background-color: rgb(252, 252, 252);
   font-weight: bold;
-  text-align: center;
-  display: inline-block;
-  padding: 5px;
-  
-
 }
 article a {
   color: #12b886;
+}
+a:link,
+a:visited {
+  color: #12b886;
+}
+a:hover,
+a:active {
+  color: blue;
+}
+body {
+  border-top: 10px solid #12b886;
+}
+aside {
+  border-top: 10px solid #12b886;
+  border-bottom: 10px solid #12b886;
+}
+article li {
+  line-height: 1.6;
 }
